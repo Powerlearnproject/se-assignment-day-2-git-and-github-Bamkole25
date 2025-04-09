@@ -193,6 +193,7 @@ git commit -m "Your descriptive commit message"
 **7. Push to GitHub (If Working with a Remote Repo)**  
 ```bash
 git push origin main  # Pushes commits to the main branch
+```
 
 **How Commits Help in Version Control by helping to**  
 1. **Track Changes:**  
