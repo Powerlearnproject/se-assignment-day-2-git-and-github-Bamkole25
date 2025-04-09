@@ -207,11 +207,13 @@ git push origin main  # Pushes commits to the main branch
 4. **Branch Safely:**  
    - Commits allow branching without affecting the main codebase until ready.
 
+
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
 **Answer:** A **branch** is an independent line of development in a Git repository. It allows you to work on features, fixes, or experiments **without affecting the main codebase** (`main`). 
 
 **Why Branching is an Important Feature for Collaboration**  
+
 - **Isolated Work:** Developers can work on separate tasks simultaneously.  
 - **Safe Experimentation:** Test ideas without breaking stable code.  
 - **Code Review Friendly:** Changes are merged via **Pull Requests (PRs)** on GitHub.  
